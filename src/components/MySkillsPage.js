@@ -109,7 +109,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
     </li>
 </ul>
 </Description>
-<Description>
+{/* <Description>
 <strong>Tools</strong>
 <ul>
     <li>
@@ -117,7 +117,7 @@ I love to create design which speaks, Keep it clean, minimal and simple.
     </li>
     
 </ul>
-</Description>
+</Description> */}
 
             </Main>
             <Main>
